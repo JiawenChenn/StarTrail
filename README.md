@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/JiawenChenn/StarTrail/blob/main/docs/docs/doc_data/f1.png" width="800">
+<img src="https://github.com/JiawenChenn/StarTrail/blob/main/docs/docs/doc_data/f1.png" width="600">
 </p>
 
 We present StarTrail, a novel **gradient based** method that powerfully defines rapidly changing regions and detects ***cliff genes***, genes exhibiting drastic expression changes at highly localized or disjoint boundaries. StarTrail, the first to leverage **spatial gradients** for spatial omics data, also quantifies ***directional*** dynamics. Across multiple datasets, StarTrail accurately delineates boundaries (e.g., brain layers, tumor-immune boundaries), and detects cliff genes that may regulate molecular crosstalk at these biologically relevant boundaries but are missed by existing methods. 
