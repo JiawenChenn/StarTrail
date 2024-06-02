@@ -1,0 +1,31 @@
+header:
+
+  - titles:
+      # @start locale config
+      en      : &EN       About
+      # @end locale config
+    url: docs/00_about
+
+  - titles:
+      # @start locale config
+      en      : &EN       Document
+      # @end locale config
+    url: docs/01_quick_start
+
+document_nav:
+  - title:  Quick Start
+    children:
+      - title:  Installation
+        url:    docs/01_quick_start
+  - title:  Estimate gradients
+    children:
+      - title:  Simulation
+        url:    docs/02_simulation
+      - title:  Human DLPFC
+        url:    docs/03_DLPFC_estimate
+      - title:  Fit gene expression boundary
+        url:    docs/04_DLPFC_boundary
+  - title:  Detect cliff gene
+    children:
+      - title:  HER2+ Breast Cancer
+        url:    docs/05_Her2+

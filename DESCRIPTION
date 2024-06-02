@@ -1,0 +1,11 @@
+Package: StarTrail
+Type: Package
+Title: Investigating spatial dynamics in spatial omics data with StarTrail
+Version: 1.0.0
+Author: Jiawen Chen
+Maintainer: Jiawen Chen <jiawenn@email.unc.edu>
+Description: We present StarTrail, a novel gradient based method that powerfully defines rapidly changing regions and detects cliff genes, genes exhibiting drastic expression changes at highly localized or disjoint boundaries. StarTrail, the first to leverage spatial gradients for spatial omics data, also quantifies directional dynamics. Across multiple datasets, StarTrail accurately delineates boundaries (e.g., brain layers, tumor-immune boundaries), and detects cliff genes that may regulate molecular crosstalk at these biologically relevant boundaries but are missed by existing methods.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1

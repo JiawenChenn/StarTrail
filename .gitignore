@@ -1,2 +1,15 @@
 
 .DS_Store
+data/her2+bc/H1_smooth_norm.txt
+data/her2+bc/ERBB2_model.rds
+data/her2+bc/cancer_epi_boundary/curve1_points_all.txt
+data/her2+bc/cancer_epi_boundary/curve0_points_all.txt
+data/dlpfc/PCP4_gradient_mesh.txt
+data/dlpfc/pathologist_anno_boundary/151676_boundary5.txt
+data/dlpfc/pathologist_anno_boundary/151676_boundary4.txt
+data/dlpfc/pathologist_anno_boundary/151676_boundary3.txt
+data/dlpfc/pathologist_anno_boundary/151676_boundary2.txt
+data/dlpfc/pathologist_anno_boundary/151676_boundary1.txt
+data/dlpfc/pathologist_anno_boundary/151676_boundary0.txt
+data/dlpfc/MBP_gradient_mesh.txt
+data/dlpfc/151676_smooth_r500_norm.txt
