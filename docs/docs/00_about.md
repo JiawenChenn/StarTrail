@@ -21,7 +21,7 @@ We present StarTrail, a novel **gradient based** method that powerfully defines 
 
 ## Usage
 
-Following the instruction in [Documents](/docs/DLPFC) to use StarTrail.
+Following the instruction in [Documents](docs/01_quick_start) to use StarTrail.
 
 ## Citation
 
